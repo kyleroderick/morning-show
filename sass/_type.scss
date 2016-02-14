@@ -1,0 +1,396 @@
+// Imports
+@import url(http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic);
+
+// Fonts
+@mixin sans {font-family: ".tk-adelle-sans", "Helvetica-neue", Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+@mixin iconfont {font-family: "FontAwesome";
+  -webkit-font-smoothing: antialiased;
+}
+
+
+@font-face {
+  font-family: "FontAwesome";
+  src: url('../fonts/fontawesome/fontawesome-webfont.eot?v=4.0.3');
+  src: url('../fonts/fontawesome/fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('../fonts/fontawesome/fontawesome-webfont.woff?v=4.0.3') format('woff'), url('../fonts/fontawesome/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), url('../fonts/fontawesome/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  color: yellow;
+  line-height: 1;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  min-height: 100%;
+  @include sans;
+  font-size: 17px;
+	font-weight: 400;
+	color: $DarkGrey;
+	outline: none;
+	a {
+    outline : none;
+	}
+}
+
+
+// Typography
+
+
+p {
+  color: black;
+  line-height: 1.8em;
+  margin-bottom: 1.5em;
+	a {
+	text-decoration: none;
+	color: $LinkColor;
+	font-weight: 600;
+	}
+}
+
+ul {
+  color: $DarkGrey;
+  margin-bottom: 3em;
+  list-style-type:none;
+  a {
+    text-decoration: none;
+	  color: $LinkColor;
+  }
+  code {
+    font-family: monospace;
+    font-weight: 700;
+    color: Black;
+  }
+}
+
+
+li {
+  line-height: 1.5em;
+  margin-bottom: 1em;
+}
+
+code {
+    font-family: monospace;
+    font-weight: 700;
+    color: Black;
+  }
+
+hr {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+hr .compact{
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+h1 {
+  font-weight: 700;
+	line-height: normal;
+	  		font-size: 3em;
+	a {
+		text-decoration: none;
+		border-bottom: none;
+		}
+}
+
+h2 {
+  font-weight: 700;
+	line-height: normal;
+  font-size: 1.3em;
+  margin-bottom: .1em;
+  color: $DarkGrey;
+  	a {
+		text-decoration: none;
+		border-bottom: none;
+		  color: $DarkGrey;
+		}
+}
+
+h2.page {
+  color: $DarkGrey;
+  	a {
+		text-decoration: none;
+		border-bottom: none;
+		}
+}
+
+
+
+h3 {
+	font-size: 2em;
+	line-height: normal;
+	font-weight: 600;
+	a {
+		text-decoration: none;
+		border-bottom: none;
+		color: $LinkColor;
+	}
+}
+
+h4 {
+  font-weight: 800;
+  line-height: 1.1em;
+  text-transform: uppercase;
+  letter-spacing: .02em;
+  color: $MiddleGrey;
+  margin-bottom: 1.5em;
+  a {
+    text-decoration: none;
+    color: $DarkGrey;
+    border-bottom: none;
+    }
+}
+
+h5 {
+  font-weight: 800;
+  font-size: 1em;
+  line-height: 1.8em;
+  text-transform: uppercase;
+  letter-spacing: .02em;
+  margin-bottom: 1em;
+  color: $MiddleGrey;
+  a {
+    text-decoration: none;
+    color: $LinkColor;
+    border-bottom: none;
+    }
+}
+
+h6 {
+  font-weight: 800;
+  font-size: 1em;
+  line-height: 1.8em;
+  text-transform: uppercase;
+  letter-spacing: .02em;
+  color: $MiddleGrey;
+  margin-bottom: .5em;
+  a {
+    text-decoration: none;
+    color: $LinkColor;
+    border-bottom: none;
+    }
+}
+
+.related-header {
+  font-size: 1.3em;
+  margin-top: 2em;
+}
+
+.related-list {
+  padding: 0;
+
+  list-style-type: none;
+  padding-left: 1em;
+  font-weight: 600;
+  border-left: 4px solid $DarkGrey;
+  a {
+    text-decoration: none;
+    color: $DarkGrey;
+  }
+}
+
+.byline {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: .7em;
+  color: $LightGrey;
+  text-transform: none;
+  font-weight: 600;
+  letter-spacing: normal;
+}
+
+
+
+.link-icon {
+	font-size: 1.2em;
+	padding-left: .5em;
+	color: $MiddleGrey;
+	a{
+		text-decoration: none;
+		color: $DarkGrey;
+		border-bottom: none;
+	}
+}
+
+.permalink-icon {
+	font-size: inherit;
+	padding-left: 1em;
+	margin-top: -1em;
+	a {
+		text-decoration: none;
+		border-bottom: none;
+		color: $DarkGrey;
+  }
+}
+
+.header {
+	font-weight: 300;
+	font-size: 1.2em;
+	a {
+		text-decoration: none;
+		border-bottom: none;
+		color: $DarkGrey;
+}
+}
+
+.page {
+	font-weight: 800;
+	font-size: 2.0em;
+	padding-top: 0;
+	color: $DarkGrey;
+	a {
+		text-decoration: none;
+		border-bottom: none;
+  }
+}
+
+
+
+.link-post-title {
+	font-size: 1.45em;
+	font-weight: 700;
+	a {
+		color: $LinkColor;
+		text-decoration: none;
+		border-bottom: none;
+	}
+}
+
+.post-title {
+	font-size: 2.0em;
+	font-weight: 800;
+  padding-top: .4em;
+	a {
+		color: $DarkGrey;
+		text-decoration: none;
+		letter-spacing: .01em;
+		border-bottom: none;
+	}
+}
+
+.link-excerpt {
+	line-height: 1.9em;
+	padding-bottom: 5em;
+	a {
+	text-decoration: none;
+	color: $DarkGrey;
+	}
+}
+
+.footnotes {
+  a {
+    color: $DarkGrey;
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom: none;
+  }
+}
+
+sup {
+  color: $DarkGrey;
+  a {
+    color: $DarkGrey;
+    font-weight: 700;
+    font-size: .9em;
+    text-decoration: none;
+    border-bottom: 0 solid;
+  }
+}
+
+.excerpt {
+	line-height: 1.9em;
+	padding-bottom: .75em;
+	a {
+	text-decoration: none;
+	color: $DarkGrey;
+	border-bottom:2px solid $DarkGrey;
+	}
+}
+
+.list_horizontal {
+  color: $DarkGrey;
+  text-transform: uppercase;
+  list-style: none;
+  margin-left: 0 !important;
+  margin-top: 0;
+  margin-bottom: 2em;
+  font-size: .9em;
+  a {
+    color: white;
+    background: $DarkGrey;
+    padding: 2pt 6pt 2pt 6pt;
+    font-weight: 800;
+  letter-spacing: .03em;
+    font-size: .8em;
+    text-decoration: none;
+    border-radius: 4pt;
+  }
+  li {
+    display:inline;
+    line-height: 2em;
+    padding-right: .3em;
+    white-space:pre;
+  }
+}
+
+
+
+.date {
+	font-size: .9em;
+	font-weight: 600;
+	color: $LightGrey;
+	padding-top: .3em;
+	letter-spacing: .02em;
+  margin-bottom: 1em;
+}
+
+.recent-date {
+	color: $MiddleGrey;
+	font-size: 1em;
+	float: right;
+}
+
+blockquote {
+	color: $MiddleGrey;
+  margin-bottom: 1em;
+  margin-left: 0;
+  padding-left: 1.5em;
+  border-left: 2px solid $DarkGrey;
+  p {
+  display: inline;
+  }
+}
+
+.download-button{
+  font-size: .8em;
+  color: $DarkGrey;
+  font-weight: 600;
+  padding-top: 1em;
+  a {
+    font-weight: 700;
+  }
+}
+
+
+footer {
+  h4 {
+    font-size: 1.3em;
+    font-weight: 800;
+    color: red;
+  }
+  a {
+    font-weight: 800;
+  }
+}
