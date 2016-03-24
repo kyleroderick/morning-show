@@ -1,15 +1,15 @@
 ---
-time: 1458827907
+time: 1458840331
 inventory:
   "/podcast/index.html":
-    md5: 88027f35fa30dc43634a8051bf69d26b
-    time: 1458827896
+    md5: fa0de435ee8c8bd496c5aff10f0aa6f6
+    time: 1458840321
   "/index.html":
-    md5: 88027f35fa30dc43634a8051bf69d26b
-    time: 1458827896
+    md5: fa0de435ee8c8bd496c5aff10f0aa6f6
+    time: 1458840322
   "/podcast/288/index.html":
-    md5: f8af47a3461beb766e2551a8059c9f51
-    time: 1458827896
+    md5: 76be8458f089dd764b5cf68d69c5ae95
+    time: 1458840322
   "/podcast/287/index.html":
     md5: dcd5a4a82401b8705c8318a586ebb8e7
     time: 1458827896
@@ -77,11 +77,23 @@ inventory:
     md5: f38e3addb2cf1c1516978a9869cec1cc
     time: 1457533594
   "/podcast/archive/index.html":
-    md5: d9c54e9e448a04d3bfcad53873d009c7
-    time: 1458827898
+    md5: d974023980c9f59c575087db209adbbd
+    time: 1458840323
   "/podcast/tags/index.html":
-    md5: 79cd412218f1effec7e1bc22f06a35be
-    time: 1458715056
+    md5: effd2daabfea3b01bd553d48105441a0
+    time: 1458840323
+  "/podcast/tags/video-games/index.html":
+    md5: 1c9fd9a7632378840b7ac4ad22f8c91f
+    time: 1458840323
+  "/podcast/tags/puppy/index.html":
+    md5: 0459094e4b4fe026d53b99b354c5b6d5
+    time: 1458840323
+  "/podcast/tags/cake/index.html":
+    md5: d70e4abd6de8a2aa82a3cc28a4b4aeae
+    time: 1458840323
+  "/podcast/tags/vinyl/index.html":
+    md5: aab98840a2c245ed9f85cca24a35833e
+    time: 1458840323
   "/podcast/tags/2-stupid-games/index.html":
     md5: 807160539be4ea3b16cc3eeee059c127
     time: 1458715057
@@ -287,11 +299,11 @@ inventory:
     md5: 3a05d1bf5467fe156e69b10e3cb971f4
     time: 1455428936
   "/sitemap.xml":
-    md5: ef46041558dece2bcd0b22a74c9cdc6f
-    time: 1458827900
+    md5: 69e8dc44dc68c8bd6ba9ac2dcd089d93
+    time: 1458840325
   "/feed.xml":
-    md5: 9149bb6f8d543a459e3829db3c1f343c
-    time: 1458827900
+    md5: cc68cf7eed0ddc70a0d1625afc951c8b
+    time: 1458840325
   "/404error.html":
     md5: b0ff18ac4dbc5c630f8a66d5bf119c8a
     time: 1455571120
@@ -407,11 +419,11 @@ inventory:
     md5: cf0ff76e120dbda6611618024687dc36
     time: 1455428939
   "/xml/feed.xml":
-    md5: 9149bb6f8d543a459e3829db3c1f343c
-    time: 1458827900
+    md5: 6fc3a71f6eb25d825c738a7b8fb9e602
+    time: 1458840326
   "/xml/sitemap.xml":
-    md5: a3859b7f9400387fc6f4021b6cdf19c3
-    time: 1458827900
+    md5: be59819c3dba635a786f3ea437e0b8eb
+    time: 1458840326
   "/config.codekit":
     md5: f92ba6c55abd26aa920867544590e06d
     time: 1455435798
