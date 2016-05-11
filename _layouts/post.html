@@ -23,7 +23,7 @@
     <audio class="audio-player" id="player" src="{{site.meta['Feed Press URL']}}{{post.meta['Episode Number']}}.mp3" type="audio/mp3" controls="controls" style="width:100%; height:100%;">
     Your browser does not support the audio element.
     </audio>
-    <p class="download-button">Download: <a onclick="_gs('event', 'Clicked Download button')" href="{{site.meta['Feed Press URL']}}{{meta['Episode Number']}}.mp3"><b>MP3</b></a></h4>
+    <p class="download-button">Download: <a onclick="_gs('event', 'Clicked Download button')" href="{{site.meta['Feed Press URL']}}{{post.meta['Episode Number']}}.mp3"><b>MP3</b></a></h4>
   {% endif %}
 
   {% for asset in assets %}
@@ -63,7 +63,7 @@
       <audio class="audio-player" id="player" src="{{site.meta['Feed Press URL']}}{{post.meta['Episode Number']}}.mp3" type="audio/mp3" controls="controls" style="width:100%; height:100%;">
       Your browser does not support the audio element.
       </audio>
-    <p class="download-button">Download: <a onclick="_gs('event', 'Clicked Download button')" href="{{site.meta['Feed Press URL']}}{{meta['Episode Number']}}.mp3"><b>MP3</b></a></h4>
+    <p class="download-button">Download: <a onclick="_gs('event', 'Clicked Download button')" href="{{site.meta['Feed Press URL']}}{{post.meta['Episode Number']}}.mp3"><b>MP3</b></a></h4>
     {% endif %}
 
 
