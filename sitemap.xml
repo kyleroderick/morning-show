@@ -8,6 +8,12 @@
   </url>
   
   <url>
+    <loc>http://morningshow.am/podcast/319</loc>
+    <lastmod>2016-09-09T17:02:58+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://morningshow.am/podcast/318</loc>
     <lastmod>2016-09-06T17:38:07+00:00</lastmod>
     <priority>0.5</priority>
@@ -335,7 +341,7 @@
 
   <url>
     <loc>http://morningshow.am/support</loc>
-    <lastmod>2016-08-30T03:12:45+00:00</lastmod>
+    <lastmod>2016-09-09T18:07:06+00:00</lastmod>
     <priority>1.0</priority>
   </url>
   
