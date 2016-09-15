@@ -1,5 +1,5 @@
 ---
-time: 1473738665
+time: 1473945922
 inventory:
   "/podcast/index.html":
     md5: e6acd4aca60beacbbde43da4766c73a2
@@ -686,8 +686,8 @@ inventory:
     md5: cf0ff76e120dbda6611618024687dc36
     time: 1455428939
   "/xml/feed.xml":
-    md5: 5d20a0904f78ab5c1d2bccd13635ab91
-    time: 1473738586
+    md5: b338ff602e30ca4c308b4789311a1edb
+    time: 1473945921
   "/xml/sitemap.xml":
     md5: 53a663563af3b9f1d52ad2e9f774fa6d
     time: 1473738586
