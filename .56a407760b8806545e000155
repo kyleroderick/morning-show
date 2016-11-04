@@ -1,12 +1,15 @@
 ---
-time: 1478019042
+time: 1478282142
 inventory:
   "/podcast/index.html":
-    md5: 6b507aee822da9c2478e82c8024d2b2e
-    time: 1478019006
+    md5: 23004714c918d913ebb04bff8464a56c
+    time: 1478282107
   "/index.html":
-    md5: 6b507aee822da9c2478e82c8024d2b2e
-    time: 1478019006
+    md5: 23004714c918d913ebb04bff8464a56c
+    time: 1478282107
+  "/podcast/328/index.html":
+    md5: 8bf749565a2a072cd956c81e19b57919
+    time: 1478282108
   "/podcast/327/index.html":
     md5: 3e04987656374b10d4e5c7c362d808ac
     time: 1478019007
@@ -14,56 +17,56 @@ inventory:
     md5: 4d3feac7cc35c1a450ce64c10203ab14
     time: 1477680879
   "/podcast/325/index.html":
-    md5: fc1302409c4d396c34956a6c1f46e979
-    time: 1478019007
+    md5: ebb972781f98e727dc16d4b71d721c14
+    time: 1478282108
   "/podcast/324/index.html":
-    md5: 764f6021354d4f92fd5416a3ef04c8d7
-    time: 1478019007
+    md5: 187c3770236658d61e1dd281da203a87
+    time: 1478282108
   "/podcast/323/index.html":
     md5: f57a5053a1e3ec37f3abb3e409bb3527
     time: 1477680879
   "/podcast/322/index.html":
-    md5: 7fe47c66dddb72f25ab99e8e0c39d7ad
-    time: 1478019007
+    md5: 607e9e1bdebc3f4df57cb9644d2eae8a
+    time: 1478282109
   "/podcast/321/index.html":
-    md5: 17c1d4f91cb23e809303bc31d6b00936
-    time: 1478019007
+    md5: b179552698e9ed043899b68a01528941
+    time: 1478282109
   "/podcast/320/index.html":
-    md5: 71d18016c45ffd06e6aabd97fc436182
-    time: 1478019007
+    md5: 5e87ead19a39898800fa9eecdf96a866
+    time: 1478282109
   "/podcast/319/index.html":
     md5: b74151e8f89e4e157e3be59c56f74673
     time: 1473738576
   "/podcast/318/index.html":
-    md5: 62c460d1bc1b7f6b21d7bd385f4af7b8
-    time: 1478019008
+    md5: 4270e86cb99a1370d059edd8a2f92504
+    time: 1478282109
   "/podcast/317/index.html":
-    md5: 436ed1e61ef626a1e53a1349fcf01230
-    time: 1478019008
+    md5: 763a9841eed437656b3d483c27e04c03
+    time: 1478282109
   "/podcast/316/index.html":
-    md5: 8fd78ae1bdab7409d32e65609fca2ce9
-    time: 1478019008
+    md5: 405297ed898b866901af27902d8a69f4
+    time: 1478282109
   "/podcast/315/index.html":
-    md5: ebc4487d5a5f7d5addaabe9703c52487
-    time: 1478019008
+    md5: 53e523c9419febba1c4d8410eb0ddf7e
+    time: 1478282110
   "/podcast/314/index.html":
     md5: 26bd10e9f2bc5f46b8af07c8e40016bd
     time: 1474653309
   "/podcast/313/index.html":
-    md5: d290100ba735499fa1ff8ff44c1bc108
-    time: 1478019008
+    md5: 86cf2cf6e2ca3fddf821452b0e015200
+    time: 1478282110
   "/podcast/312/index.html":
     md5: 7d033082ddfe93ba3f1d4e49742b5de1
     time: 1478019008
   "/podcast/311/index.html":
-    md5: 02e6ea046783038fee61307700e65e07
-    time: 1478019008
+    md5: 305d11a9fa67f88da3860fe6ac9b03b2
+    time: 1478282110
   "/podcast/310/index.html":
-    md5: 5d32803d9ff1cb914e9dc9c0c838fef7
-    time: 1478019008
+    md5: 09f863596330fba9515007d935150b42
+    time: 1478282110
   "/podcast/309/index.html":
-    md5: 00146d9d0a98039d3e85e6496bc4e68b
-    time: 1478019008
+    md5: 85acb2146feda004189ec5ab4f3eca38
+    time: 1478282110
   "/podcast/308/index.html":
     md5: 6edf68a353cb980714b98e7e3d976b1e
     time: 1478019009
@@ -71,8 +74,8 @@ inventory:
     md5: 536c8350e4d1bb2d99e40ceaaac52f88
     time: 1478019009
   "/podcast/306/index.html":
-    md5: 75ffb9dc3682421166040794ff253691
-    time: 1478019009
+    md5: 46c40bf755e5189c1044fdd33d814803
+    time: 1478282111
   "/podcast/305/index.html":
     md5: 122eecb55e3622fb018d4657a40b2623
     time: 1478019009
@@ -80,11 +83,11 @@ inventory:
     md5: 1013a63d77c9f0c70d102cfd5911d7c8
     time: 1473738577
   "/podcast/303/index.html":
-    md5: adf73c0ab00f39ec6ac596c4cab5fc59
-    time: 1478019009
+    md5: 1a1553d86bd9f15e7b2c078999ca1946
+    time: 1478282111
   "/podcast/302/index.html":
-    md5: ac6bafd4ed1e384e558af8b226360dd7
-    time: 1478019009
+    md5: d9170472ab1f6f0f5624970fdd3863e2
+    time: 1478282112
   "/podcast/301/index.html":
     md5: d7afdb41b1a21011a70d0153da9941a5
     time: 1473738577
@@ -101,29 +104,29 @@ inventory:
     md5: d7de0ba5b965fb4fb8bccb98cc0d9106
     time: 1473738578
   "/podcast/296/index.html":
-    md5: 6682f89cd49a849f07c881e44cbcdd45
-    time: 1478019010
+    md5: 881d0eda8e6698cd67407aae59f6c3a3
+    time: 1478282112
   "/podcast/295/index.html":
     md5: d145ce7fdf4e2ff00640a3062ba9eb6c
     time: 1473738578
   "/podcast/294/index.html":
-    md5: a78dfa7e3620bf54e35fe5bed5258c04
-    time: 1478019010
+    md5: c5111b275e74d8a6e1d1fc9e192efe2c
+    time: 1478282113
   "/podcast/293/index.html":
     md5: 98d992dd7c355f4a7fbe5e337b197226
     time: 1478019010
   "/podcast/292/index.html":
-    md5: 164aece935f3e87d4b0b6ce84179a8ab
-    time: 1478019010
+    md5: 1e79d52bafca058df3511def0e884bb6
+    time: 1478282113
   "/podcast/291/index.html":
-    md5: b89f65c70b45dbd684541b13b34934d6
-    time: 1478019010
+    md5: 72dab8f9bb587a879c5f2ceb1687721f
+    time: 1478282113
   "/podcast/290/index.html":
     md5: 8f9c84cc16c838ff0e76e45617044e94
     time: 1474345805
   "/podcast/289/index.html":
-    md5: 4536a0b4ca68a5c141272171e97a61da
-    time: 1478019010
+    md5: d29131ed1c75fe004b81a5342a168bb1
+    time: 1478282113
   "/podcast/288/index.html":
     md5: 4c5b01f779b726c65c31ffed1ab1e894
     time: 1473738578
@@ -131,62 +134,62 @@ inventory:
     md5: c13d4f88f968333a1abb10acfa3b84a2
     time: 1473738579
   "/podcast/286/index.html":
-    md5: 0cc56800eca52e5871333dbfef8864ac
-    time: 1478019011
+    md5: 27d30bd4446b4354e9e24798fdc71066
+    time: 1478282114
   "/podcast/285/index.html":
-    md5: 655c09fe2ab0c87b723e0acf31aa8097
-    time: 1478019011
+    md5: 544cc8d52e5ec655c64cd7bafc0683ea
+    time: 1478282114
   "/podcast/284/index.html":
-    md5: c143947adf74e2f71ab14eafa3f4bd46
-    time: 1478019011
+    md5: 952f35ddb43f3814d453d87880400b15
+    time: 1478282114
   "/podcast/283/index.html":
-    md5: 8abc5bf998b25a09d5f8371c993fca76
-    time: 1478019011
+    md5: 1faf227bfc2b2c0f000ca90d64ae3167
+    time: 1478282114
   "/podcast/282/index.html":
-    md5: 5ed7da71c9b6e101c42fc87cd4f0438d
-    time: 1478019011
+    md5: d8adfdf7e1c78e361f9d78635ff6d4ea
+    time: 1478282114
   "/podcast/281/index.html":
     md5: fda1316a5f71e9b30495c24c0ab29775
     time: 1473738579
   "/podcast/280/index.html":
-    md5: 0b5f801516d47baa5a81e5b59039a0c9
-    time: 1478019011
+    md5: ba92413de3c05a3957627ea83fb7abad
+    time: 1478282115
   "/podcast/279/index.html":
-    md5: 73b1c7346c6a1d476d7b49dc8dd27bfe
-    time: 1478019011
+    md5: 59f14d88a36cead74037b7a0772df0f9
+    time: 1478282115
   "/podcast/278/index.html":
     md5: 6db2b630bb9551a52fb43c4fde28ac1f
     time: 1473738579
   "/podcast/277/index.html":
-    md5: 0b905d4cc68e1b5b026f80fc6fa2e991
-    time: 1478019011
+    md5: be7e05707017fb20ea3f5d251c5743a0
+    time: 1478282115
   "/podcast/276/index.html":
-    md5: e47984cdc1a728e277f4316a1660fce8
-    time: 1478019011
+    md5: 1da58b8bb5a05270beaa286e6f6a3f79
+    time: 1478282115
   "/podcast/275/index.html":
     md5: c7986dec1bcb75329984b21df779ecd9
     time: 1473738580
   "/podcast/274/index.html":
-    md5: ca2bf838281ad992680c5698913c6c1c
-    time: 1478019012
+    md5: 65f176d905e38a77d696f04fda40203a
+    time: 1478282116
   "/podcast/273/index.html":
     md5: 732dbb75fd2eb8f44dd7ee04ac438a3b
     time: 1478019012
   "/podcast/272/index.html":
-    md5: 6ba679fbbbeba4ce9c8c4a6c1a004fc7
-    time: 1478019012
+    md5: fc25a38cef7d922e981c89167a658ae9
+    time: 1478282116
   "/podcast/271/index.html":
-    md5: f34609efdc13e516f0012e6f78e24e86
-    time: 1478019012
+    md5: 61311ca27c2af3ecbb5be5d8d2ddf6e5
+    time: 1478282116
   "/podcast/270/index.html":
-    md5: 7c3a95eb1d2c5295f149fa04aff54fa7
-    time: 1478019012
+    md5: e427b5c146b96385b0a719f1def4d64a
+    time: 1478282116
   "/podcast/269/index.html":
     md5: 43f240e602ad1bcf5a15c06fd7ca9d26
     time: 1475603104
   "/podcast/268/index.html":
-    md5: 6eef4ce7f67f2cd4c5fd8cc630a3296b
-    time: 1478019012
+    md5: 90bf5221eabd069df18acbac362f6b04
+    time: 1478282116
   "/podcast/267/index.html":
     md5: e946fc59d5a3f574c314dfe6b3fd0e24
     time: 1476466174
@@ -194,11 +197,23 @@ inventory:
     md5: 12ffaabc0dd7eea1074176ed3919aab9
     time: 1473738580
   "/podcast/archive/index.html":
-    md5: 60f167b90eeb978317a616f688e98bd5
-    time: 1478019013
+    md5: 87171eeb3be34f4ec7e02a3b91d975ff
+    time: 1478282117
   "/podcast/tags/index.html":
-    md5: 0355dcf125f4edeb042cce1942d1b2a3
-    time: 1478019013
+    md5: ce4ae6d1550a3f8306156a28cf93bd44
+    time: 1478282117
+  "/podcast/tags/slang-or-not/index.html":
+    md5: 10ca3c5ddbc5cdf571385f3a0e8f6e2b
+    time: 1478282117
+  "/podcast/tags/food-friday/index.html":
+    md5: 9e707d66e49937e0dab1b4066da34796
+    time: 1478282117
+  "/podcast/tags/pizza/index.html":
+    md5: acc74cdcd6af9046b8ede5e4af2f8bf2
+    time: 1478282117
+  "/podcast/tags/chips/index.html":
+    md5: 091d9cea13235b1ca46cd7d333818900
+    time: 1478282118
   "/podcast/tags/emoji/index.html":
     md5: 64e1a7827ee0f3afd571f7e599cf1c90
     time: 1478019013
@@ -226,18 +241,12 @@ inventory:
   "/podcast/tags/apple/index.html":
     md5: ec152ad9e9918a604f1fb7e39344f2b1
     time: 1476814879
-  "/podcast/tags/pizza/index.html":
-    md5: 949664e7e1f4288bb78d6b1121c7c694
-    time: 1476814879
   "/podcast/tags/robots/index.html":
     md5: c0c37ddfceeb19ee6f9e34e6e12435b1
     time: 1476814879
   "/podcast/tags/cheese/index.html":
     md5: e5373ad3dd3e0a5b20fcb8be85a3a174
     time: 1476814879
-  "/podcast/tags/food-friday/index.html":
-    md5: 100f2e31c95ce8eb6228921a9d6aed02
-    time: 1476466752
   "/podcast/tags/lunchables/index.html":
     md5: 35fcdfce6855ef36cefa4b9fb9e1f88b
     time: 1476466752
@@ -264,9 +273,6 @@ inventory:
     time: 1474653313
   "/podcast/tags/coffee/index.html":
     md5: 0638f79a7ff7cb49420ad41c53657246
-    time: 1474391394
-  "/podcast/tags/chips/index.html":
-    md5: 9fd90697891f43e686a027112bb7dac3
     time: 1474391394
   "/podcast/tags/punch/index.html":
     md5: 75dc73850a33c94b16f2ad2bac50c1e0
@@ -629,11 +635,11 @@ inventory:
     md5: 3a05d1bf5467fe156e69b10e3cb971f4
     time: 1455428936
   "/sitemap.xml":
-    md5: 019fb83df452c6be4452a53b7eb88d32
-    time: 1478019018
+    md5: 98b93c663c21006b67b8521909eba349
+    time: 1478282122
   "/feed.xml":
-    md5: 01db7705326a54bb2b5c7e0d27021624
-    time: 1478019018
+    md5: b2f5720e37120524ff08da64fc6f2b4c
+    time: 1478282122
   "/404error.html":
     md5: 55788305fdd700463771681c4d2c505b
     time: 1473738586
@@ -746,11 +752,11 @@ inventory:
     md5: cf0ff76e120dbda6611618024687dc36
     time: 1455428939
   "/xml/feed.xml":
-    md5: 76188981b3b084e310796704278c41c2
-    time: 1478019020
+    md5: b2f5720e37120524ff08da64fc6f2b4c
+    time: 1478282122
   "/xml/sitemap.xml":
-    md5: e55528accc449b1dbeb4916e7d5bb880
-    time: 1478019020
+    md5: 12bf2dc302b88b3f0c6222f48dd9b9a4
+    time: 1478282122
   "/favicon/android-chrome-36x36.png":
     md5: bae45510e08dda79786453a4bad0e5b7
     time: 1455435798
